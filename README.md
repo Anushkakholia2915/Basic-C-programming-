@@ -1,1 +1,1 @@
-# Basic-C-programming-
+# Basic-python programming- SQL
